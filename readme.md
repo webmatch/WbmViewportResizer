@@ -21,7 +21,7 @@ Clone this repository into a folder **WbmViewportResizer** within the **custom/p
 
 ## Install with composer
 * Change to your root Installation of shopware
-* Run command `composer require webmatch/wbm-viewport-resizer` and install and active plugin with Plugin Manager 
+* Run command `composer require webmatch/wbm-viewport-resizer` and install and activate plugin with Plugin Manager 
 
 Usage
 =====
