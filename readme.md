@@ -1,6 +1,6 @@
 WbmViewportResizer - preview predefined viewports
 =====
-**This plugin is currently in beta phase and not yet fully tested**
+**This plugin is meant for developing purposes only**
 
 This plugin makes use of [jResize](https://github.com/toddmotto/jResize) jquery plugin 
 to present the frontend of the shop within an iframe, that can be adjusted to the width of
