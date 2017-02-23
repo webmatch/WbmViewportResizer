@@ -1,0 +1,13 @@
+{
+  "name": "webmatch/wbm-viewport-resizer",
+  "keywords": ["responsive", "developer-tools", "frontend", "viewport-dimensions", "shopware", "shopware-plugin"],
+  "description": "Shopware-Plugin to preview the Frontend in responsive viewports",
+  "license": "GPL3",
+  "type": "shopware-plugin",
+  "extra": {
+    "installer-name": "WbmViewportResizer"
+  },
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
