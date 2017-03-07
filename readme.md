@@ -1,5 +1,7 @@
 WbmViewportResizer - preview predefined viewports
 =====
+![Travis CI](https://travis-ci.org/webmatch/WbmViewportResizer.svg?branch=master)
+
 **This plugin is meant for development purposes only**
 
 This plugin makes use of [jResize](https://github.com/toddmotto/jResize) jquery plugin 
