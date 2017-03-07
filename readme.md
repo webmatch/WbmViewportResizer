@@ -1,5 +1,6 @@
 WbmViewportResizer - preview predefined viewports
 =====
+![Scrutinizer](https://scrutinizer-ci.com/g/webmatch/WbmViewportResizer/badges/quality-score.png?b=master)
 ![Travis CI](https://travis-ci.org/webmatch/WbmViewportResizer.svg?branch=master)
 
 **This plugin is meant for development purposes only**
